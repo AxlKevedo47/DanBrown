@@ -1,1 +1,56 @@
+/* Fuente general y fondo */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: #111;
+    color: white;
+}
+  
+/* Encabezado */
+header {
+    background-color: #222;
+    padding: 20px;
+    text-align: center;
+}
+  
+header h1 {
+    margin: 0;
+}
+  
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+  
+nav a {
+    color: #00ffff;
+    text-decoration: none;
+}
 
+.tema img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.card-destacada {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+  
+.card {
+    background-color: #1e1e1e;
+    border-radius: 30px;
+    overflow: hidden;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.title{
+    text-align: center;
+}
