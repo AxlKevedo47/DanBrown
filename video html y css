@@ -1,1 +1,27 @@
+<div class="video-thumbnail">
+  <a href="link de video" target="_blank" rel="noopener noreferrer">
+    <img src="ruta de imagen.jpg" alt="Miniatura del video">
+  </a>
+</div>
 
+--------
+
+.video-thumbnail {
+  display: flex;
+  justify-content: center;
+  margin: 40px auto;
+}
+
+.video-thumbnail img {
+  width: 300px;
+  border-radius: 12px;
+  border: 2px solid #444;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  box-shadow: 0 0 10px rgba(163, 208, 255, 0.15);
+  cursor: pointer;
+}
+
+.video-thumbnail img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(163, 208, 255, 0.4);
+}
