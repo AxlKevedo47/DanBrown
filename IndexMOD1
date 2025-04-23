@@ -1,1 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ACTO 1: Origen</title>
+  <link rel="stylesheet" href="estilos/ACTO_1.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Encabezado con título y navegación -->
+  <header>
+    <h1>ACTO 1: ORIGEN</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="">ACTO 1</a></li>
+        <li><a href="ACTO_2.html">ACTO 2</a></li>
+        <li><a href="ACTO_3.html">ACTO 3</a></li>
+        <li><a href="registro.html">Registro</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Imagen destacada -->
+  <main>
+    <section>
+      <img src="pic/MOON.png" alt="">
+    </section>
+
+    <!-- Historia de Kelbris -->
+    <section>
+      <p>
+        Comenzamos en el año 1993. Un niño llamado "Kelbris", de unos 11 años, tenía una mente muy activa. En su niñez descubrió que era especial. Comenzó a escuchar una voz desconocida, una anomalía que, con el tiempo, se reveló como proveniente de la Luna.
+      </p>
+      <p>
+        Al principio le costó creerlo, pero pronto entendió que la Luna le hablaba. Sus conversaciones eran profundas, sobre el fin del mundo. La Luna le advirtió que chocaría contra la Tierra, provocando el apocalipsis. Para salvar a la humanidad, Kelbris debía separar el alma del cuerpo y crear un mundo espiritual para las almas: la Ascensión.
+      </p>
+      <p>
+        Así nació la secta "Moon Children" (Hijos de la Luna), compuesta por personas de todas las edades. Su propósito era compartir las profecías que la Luna reveló a Kelbris...
+      </p>
+    </section>
+
+    <!-- Profecías -->
+    <section class="card-destacada">
+      <div class="card">
+        <h3>Predicciones de la NASA</h3>
+        <p>
+          Muchos creyentes en el apocalipsis de 2012 señalan estudios de la NASA como evidencia. Según la agencia, las erupciones solares podrían tener efectos catastróficos en las telecomunicaciones, redes eléctricas y sistemas GPS.
+        </p>
+        <p>“Muchos pronosticadores creen que el Ciclo Solar 24 será grande e intenso…”. Algunos lo ven como una señal del fin de los tiempos.</p>
+      </div>
+
+      <div class="card">
+        <h3>Profecía del Calendario Maya</h3>
+        <p>
+          El calendario maya indica que el "Gran Ciclo" termina el 21 de diciembre de 2012. Dada su sofisticación matemática y astronómica, muchos le atribuyen valor predictivo.
+        </p>
+        <p>
+          Los mayas dominaban conceptos como el cero desde el año 36 a.C. y crearon mapas astronómicos de gran precisión, por eso su fecha del fin genera tanto interés.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Profecía hindú</h3>
+        <p>
+          Las escrituras hindúes predicen el inicio de una “Edad de Oro” en el Kali Yuga, alrededor del año 2012. Esta etapa dorada duraría 10.000 años según el Brahma-Vaivarta Purana.
+        </p>
+        <p>
+          Los cálculos sobre el inicio del Kali Yuga (3102 a.C.) coinciden casi con los del calendario maya, lo que refuerza la relación entre ambas profecías.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Profecía de la Luna</h3>
+        <p>
+          Un miembro de los Hijos de la Luna, llamado Kelbris, recibió susurros proféticos de la Luna en 1998. Las frases eran vagas, pero hablaban del fin del mundo y del número tres.
+        </p>
+        <p>
+          Kelbris fue hallado electrocutado, y su muerte es vista como un símbolo dentro de la Orden. Hoy en día su legado alimenta esta enigmática profecía lunar.
+        </p>
+      </div>
+    </section>
+
+    <!-- Credos y rituales -->
+    <section>
+      <p>
+        También tenían escritos unos credos utilizados en ceremonias o rituales: culto a la Orden, iniciación o Ascensión. Escribir los credos era una muestra de lealtad. Además, el uso de máscaras permitía que los jóvenes se expresaran ante la deidad lunar.
+      </p>
+    </section>
+
+    <section class="card-destacada">
+      <div class="card">
+        <h3>El Credo</h3>
+        <p>[Los participantes deben llevar puesta su mascarilla]</p>
+        <p>Oh padre, te prometo, oh madre, que me entrego cien veces</p>
+        <p>Que la luna ilumine nuestro camino</p>
+        <p>Te desnudamos nuestras almas a lo que traerá el fin</p>
+        <p>Empodéranos con tu gracia infinita</p>
+        <p>Que recibamos la mayor gloria de todas</p>
+        <p>Que ascendamos a los cielos mismos</p>
+        <p>Somos los hijos de la luna</p>
+        <p>Somos ángeles mortales</p>
+      </div>
+
+      <div class="card">
+        <h3>El Credo de la Iniciación</h3>
+        <p>Por mi sangre, como la dibujo aquí</p>
+        <p>Me dedico al servicio</p>
+        <p>Rompo todos los lazos de mi antigua vida</p>
+        <p>Los que me dieron a luz no tienen sentido</p>
+        <p>Los que me criaron no tienen esperanza</p>
+        <p>Los que me amaron no valen nada</p>
+        <p>Ahora llevo esta máscara para simbolizar mi transformación</p>
+        <p>Como un niño aprende a caminar, así también aprenderé a volar</p>
+        <p>[Pausa en cuanto a la ceremonia de la máscara]</p>
+        <p>Con estas palabras me comprometo con mi nueva familia</p>
+        <p>Que aunque esta mascarilla pueda salir de mi rostro</p>
+        <p>Las cicatrices que simbolizan mi devoción nunca se desvanecerán</p>
+        <p>Ahora que he nacido de verdad</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
 
